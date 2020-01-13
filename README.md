@@ -17,16 +17,16 @@ ___
 
 * Create virtual env in project folder with command
 ```console
-ankur.singh@ubntu:~/workspace/competitive-programming$ virtualenv -p python3.7 venv
+ankur@ubntu:~/workspace/competitive-programming$ virtualenv -p python3.7 venv
 ```
 
 * Activate virtual environment
 ```console
-ankur.singh@ubnutu:~/workspace/competitive-programming$ source venv/bin/activate
+ankur@ubnutu:~/workspace/competitive-programming$ source venv/bin/activate
 ```
 
 * Install all required project
 ```
-ankur.singh@ubntu:~/workspace/competitive-programming$ pip install -r requirements.txt 
+ankur@ubntu:~/workspace/competitive-programming$ pip install -r requirements.txt 
 
 ```
