@@ -29,7 +29,7 @@ def done_or_not(board):
                 block_col * block_size:(block_col + 1) * block_size]
         if not is_valid(block.reshape(row)):
             return result
-    result = "Finished"
+    result = "Finished!"
     return result
 
 
