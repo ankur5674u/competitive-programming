@@ -53,5 +53,5 @@ def is_valid_parentheses(input_p):
     return True if not stack else False
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
     is_valid_parentheses("{{}}()[()]")
