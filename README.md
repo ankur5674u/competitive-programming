@@ -16,15 +16,15 @@ Repository Contains competitive and practice programme from different website.
 
 * Create virtual env in project folder with command
 ```console
-ankur@ubntu:~/workspace/competitive-programming$ virtualenv -p python3.7 venv
+ankur@prakash:~/workspace/competitive-programming$ virtualenv -p python3.7 venv
 ```
 
 * Activate virtual environment
 ```console
-ankur@ubnutu:~/workspace/competitive-programming$ source venv/bin/activate
+ankur@prakash:~/workspace/competitive-programming$ source venv/bin/activate
 ```
 
 * Install all required project
 ```console
-ankur@ubntu:~/workspace/competitive-programming$ pip install -r requirements.txt 
+ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.txt 
 ```
