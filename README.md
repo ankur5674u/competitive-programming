@@ -1,6 +1,5 @@
 # competitive-programming
 Repository Contains competitive and practice programme from different website.
-___
 
 # Competitive Programming Website
 
@@ -26,7 +25,6 @@ ankur@ubnutu:~/workspace/competitive-programming$ source venv/bin/activate
 ```
 
 * Install all required project
-```
+```console
 ankur@ubntu:~/workspace/competitive-programming$ pip install -r requirements.txt 
-
 ```
