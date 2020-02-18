@@ -33,6 +33,20 @@ def done_or_not(board):
     return result
 
 
+def done_or_not(aboard): #board[i][j]
+  board = np.array(aboard)
+
+  rows = [board[i,:] for i in range(9)]
+  cols = [board[:,j] for j in range(9)]
+  sqrs = [board[i:i+3,j:j+3].flatten() for i in [0,3,6] for j in [0,3,6]]
+  
+  for view in np.vstack((rows,cols,sqrs)):
+      if len(np.unique(view)) != 9:
+          return 'Try again!'
+  
+  return 'Finished!'
+
+
 if __name__ == "__main__":
     m_board = [[1, 3, 2, 5, 7, 9, 4, 6, 8],
                [4, 9, 8, 2, 6, 1, 3, 7, 5],
