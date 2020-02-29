@@ -1,3 +1,6 @@
+__author__ = "Ankur Prakash Singh"
+# Date format "%m-%d-%Y"
+__date__ = '02-29-2020'
 """
 https://www.hackerrank.com/challenges/python-time-delta/problem
 
