@@ -27,6 +27,9 @@ class TestLinkedList(unittest.TestCase):
         self.assertEqual(list.insert_node_after(50, 70), None)
         list.insert_node_after(5, 6)
         self.assertEqual(list.get_list(), [4, 1, 2, 5, 6, 3, 8])
+        # Delete node
+        list.delete(4)
+        self.assertEqual(list.get_list(), [1, 2, 5, 6, 3, 8])
 
 
 if __name__ == '__main__':
