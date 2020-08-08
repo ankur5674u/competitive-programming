@@ -1,5 +1,5 @@
 # competitive-programming
-Repository Contains competitive and practice programme from different website.
+Repository Contains competitive and practice programme from different website and data stuructures problems.
 
 # Competitive Programming Website
 
