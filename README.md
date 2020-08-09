@@ -30,6 +30,5 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 ```
 # Leetcode
 
-1. [Valid Palindrome Question](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/ "Click to open Question")<br>
-[Valid Palindrome Solution](https://github.com/ankur5674u/competitive-programming/blob/master/data_structures/palindrome.py "Click to open Solution")<br>
+1. [Valid Palindrome Solution](https://github.com/ankur5674u/competitive-programming/blob/master/leet_code/palindrome.py "Click to open Solution")<br>
 
