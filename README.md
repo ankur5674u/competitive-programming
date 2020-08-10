@@ -31,4 +31,5 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 # Leetcode
 
 1. [Valid Palindrome Solution](https://github.com/ankur5674u/competitive-programming/blob/master/leet_code/palindrome.py "Click to open Solution")<br>
+1. [Rotten Oranges Solution](https://github.com/ankur5674u/competitive-programming/blob/master/leet_code/rotten_oranges.py "Click to open Solution")<br>
 
