@@ -1,5 +1,6 @@
 import unittest
 import random
+import time
 
 from data_structures import (
     linked_list
@@ -7,6 +8,13 @@ from data_structures import (
 
 
 class TestLinkedList(unittest.TestCase):
+    def setUp(self):
+        self.startTime = time.time()
+
+    def tearDown(self):
+        t = time.time() - self.startTime
+        print('%s: %.3f' % (self.id(), t))
+
     def test_singly_linked_list(self):
         list = linked_list.SinglyLinkedList()
         list.insert_at_beginning(3)
