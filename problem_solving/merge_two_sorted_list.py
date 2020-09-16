@@ -32,3 +32,26 @@ def merge_lists(lst1, lst2):
         lst1.extend(lst2[y:])
 
     return lst1
+
+
+def merge_two_sorted_list(l1, l2):
+    l1_index, l2_index, result_index = 0, 0, 0
+    result = []
+    while l1_index < len(l1) and l2_index < len(l2):
+        if l1[l1_index] < l2[l2_index]:
+            result.insert(result_index, l1[l1_index])
+            l1_index += 1
+            result_index += 1
+        else:
+            result.insert(result_index, l2[l2_index])
+            l2_index += 1
+            result_index += 1
+    while l1_index < len(l1):
+        result.insert(result_index, l1[l1_index])
+        l1_index += 1
+        result_index += 1
+    while l2_index < len(l2):
+        result.insert(result_index, l2[l2_index])
+        l2_index += 1
+        result_index += 1
+    return result
