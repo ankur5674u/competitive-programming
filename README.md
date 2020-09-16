@@ -35,3 +35,4 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 1. [Correct word Count after each word rotated from left to right k times Solution](https://github.com/ankur5674u/competitive-programming/blob/master/code_wars/string_rotation.py "Click to open Solution")<br>
 1. [Check Balance Parenthesis Solution](https://github.com/ankur5674u/competitive-programming/blob/master/code_wars/balance_parentheses.py "Click to open Solution")<br>
 1. [Length of longest common sub sequence Solution](https://github.com/ankur5674u/competitive-programming/blob/master/leet_code/longest_common_sub_sequence.py "Click to open Solution")<br>
+1. [Merge Two Sorted List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/merge_two_sorted_list "Click to open Solution")<br>
