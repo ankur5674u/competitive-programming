@@ -40,3 +40,4 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 1. [List of Products of All Elements Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_of_products_of_element.py "Click to open Solution")<br>
 1. [Find Minimum Value in List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/minimum_value_in_list.py "Click to open Solution")<br>
 1. [First Non-Repeating Integer in a list Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/first_non_repeating_integer_in_a_list.py "Click to open Solution")<br>
+1. [Find Second Maximum Value in a List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/find_second_maximum_value_in_a_list.py "Click to open Solution")<br>
