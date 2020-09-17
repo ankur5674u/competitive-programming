@@ -61,6 +61,7 @@ def find_second_maximum_number_in_single_iteration(lst):
         if item_value > max_num:
             second_max_num = max_num
             max_num = item_value
+        # check if it is the second_max max and not equal to max
         elif item_value > second_max_num and item_value != max_num:
             second_max_num = item_value
     return second_max_num if second_max_num != float('-inf') else None
