@@ -52,6 +52,19 @@ def find_second_maximum_traversing_the_list_twice(lst):
 
 
 def find_second_maximum_number_in_single_iteration(lst):
+    """
+    We initialize two variables max_num and second_max_num to -inf. We then traverse the list, and, if the current
+    element in the list is greater the than the maximum value, then set second_max_num to max and max to the current
+    element. If the current element is in between first and second, then update second_max_num to store the value of
+    the current variable. Finally, return the value stored in second_max_num.
+
+    Time Complexity #
+    This solution is in O(n) since the list is traversed once only.
+
+
+    :param lst:
+    :return:
+    """
     if len(lst) < 2:
         return None
     # initialize two variable to infinity
