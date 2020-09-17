@@ -43,3 +43,4 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 1. [Find Second Maximum Value in a List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/find_second_maximum_value_in_a_list.py "Click to open Solution")<br>
 1. [Right Rotate List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/right_rotate_list.py "Click to open Solution")<br>
 1. [Rearrange Positive & Negative Values Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/rearrange_positive_and_negative_values.py "Click to open Solution")<br>
+1. [Rearrange Sorted List in Max/Min Form Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/rearrange_sorted_list_in_max_min_form.py "Click to open Solution")<br>
