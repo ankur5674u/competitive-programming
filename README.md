@@ -35,9 +35,9 @@ ankur@prakash:~/workspace/competitive-programming$ pip install -r requirements.t
 1. [Correct word Count after each word rotated from left to right k times Solution](https://github.com/ankur5674u/competitive-programming/blob/master/code_wars/string_rotation.py "Click to open Solution")<br>
 1. [Check Balance Parenthesis Solution](https://github.com/ankur5674u/competitive-programming/blob/master/code_wars/balance_parentheses.py "Click to open Solution")<br>
 1. [Length of longest common sub sequence Solution](https://github.com/ankur5674u/competitive-programming/blob/master/leet_code/longest_common_sub_sequence.py "Click to open Solution")<br>
-1. [Merge Two Sorted List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/merge_two_sorted_list.py "Click to open Solution")<br>
-1. [Find Two Numbers that Add up to "k" Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/sum_of_two_number_in_list_equal_to_given_number.py "Click to open Solution")<br>
-1. [List of Products of All Elements Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_of_products_of_element.py "Click to open Solution")<br>
-1. [Find Minimum Value in List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/minimum_value_in_list.py "Click to open Solution")<br>
-1. [First Non-Repeating Integer in a list Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/first_non_repeating_integer_in_a_list.py "Click to open Solution")<br>
-1. [Find Second Maximum Value in a List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/find_second_maximum_value_in_a_list.py "Click to open Solution")<br>
+1. [Merge Two Sorted List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/merge_two_sorted_list.py "Click to open Solution")<br>
+1. [Find Two Numbers that Add up to "k" Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/sum_of_two_number_in_list_equal_to_given_number.py "Click to open Solution")<br>
+1. [List of Products of All Elements Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/list_of_products_of_element.py "Click to open Solution")<br>
+1. [Find Minimum Value in List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/minimum_value_in_list.py "Click to open Solution")<br>
+1. [First Non-Repeating Integer in a list Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/first_non_repeating_integer_in_a_list.py "Click to open Solution")<br>
+1. [Find Second Maximum Value in a List Solution](https://github.com/ankur5674u/competitive-programming/blob/master/problem_solving/list_problem/find_second_maximum_value_in_a_list.py "Click to open Solution")<br>
